@@ -1,6 +1,6 @@
 # TimerProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3. You can check the demo of this project [here](https://axb157030.github.io/Timer/).
 
 ## Development server
 
